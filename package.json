@@ -1,6 +1,6 @@
 {
-  "name": "tanstack-chat-template",
-  "private": true,
+  "name": "Oasis Chatbot",
+  "private": False,
   "type": "module",
   "scripts": {
     "start": "vinxi start",
