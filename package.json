@@ -1,6 +1,6 @@
 {
   "name": "Oasis Chatbot",
-  "private": True,
+  "private": "True",
   "type": "module",
   "scripts": {
     "start": "vinxi start",
